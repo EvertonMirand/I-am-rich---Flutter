@@ -1,4 +1,4 @@
-# I-am-rich---Flutter
+# I am rich - Flutter
 
 A new Flutter application.
 
